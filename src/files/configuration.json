@@ -1,0 +1,8 @@
+{
+  "weights_initialization": {
+    "method": "RANDOM",
+    "features": 3,
+    "bias": true,
+    "layers": [1]
+  }
+}
